@@ -31,7 +31,7 @@
 <hr>
 <hr>
 <p align=center>Rondus Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Rondus Technologies</a> </small></p>
+
 
 </body>
 </html>
