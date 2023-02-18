@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://44.192.81.238:8888/mylandmarktech/repository/ebay-java-app-releases/</url>
+	      <name>Rondus Technologies Releases Nexus Repository</name>
+	      <url> http://34.220.154.61:8081/repository/Chase-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/ebay-java-app-snapshot/</url>
+	      <name>Rondus Technologies Snapshot Nexus Repository </name>
+	      <url>http://34.220.154.61:8081/repository/Chase-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
