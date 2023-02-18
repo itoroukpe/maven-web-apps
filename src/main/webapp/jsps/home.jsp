@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>RondusTech.com- Home Page</title>
-<link href="images/log4.png" rel="icon">
+<link href="images/IMG_2562.PNG" rel="icon">
 </head>
 </head>
 <body>
@@ -15,7 +15,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/log4.png" alt="" width="200">
+		<img src="images/IMG_2562.PNG.png" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
 		Rondus Technology, 
