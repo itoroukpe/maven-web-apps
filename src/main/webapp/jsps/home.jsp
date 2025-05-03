@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Rondus Technologies</h1>
 <h2 align="center"> Welcome to Rondus Tech.
-	DevOps Practitioner course is designed to prepare you to succeed in forthcoming software development projects. This training has been designed to follow best practices for software development and to make the most efficient use of the latest software tools in the field. The course follows the entire software development lifecycle from requirements analysis through coding, production, and support.</h2>
+	DevOps  # Practitioner course is designed to prepare you to succeed in forthcoming software development projects. This training has been designed to follow best practices for software development and to make the most efficient use of the latest software tools in the field. The course follows the entire software development lifecycle from requirements analysis through coding, production, and support.</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
